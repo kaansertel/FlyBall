@@ -5,6 +5,7 @@ Web tabanlı programlama dersi kapsamında geliştirdiğim 2D bir oyun projesidi
 - Bir topumuz bulunmaktadır.
 - Topumuz hareket edebilmektedir.
 - Bu topumuzun boşluğa düşmemesi istenmektedir.
+- Top, tavana ve tabana çarpmamalıdır.
 - Hız, zaman geçtikçe artmakta ve böylece seviye zorlaştırılmaktadır.
 - Topumuzun oyunda kalabilmesi için tahtalar kullanılmıştır.
 - Skor, oyunda geçirilen süreyi belirtmektedir.
