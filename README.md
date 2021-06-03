@@ -24,6 +24,7 @@ Sag ( --> )
 - JavaScript
 
 ## Demo:
-<http://flyball.eu5.org/>
+- <http://flyball.eu5.org/>
+- <https://kaansertel.github.io/FlyBall/>
 ## Oyunun Ekran Görüntüsü:
 ![FlyBall](https://github.com/kaansertel/FlyBall/blob/main/FlyBall_image.png)
